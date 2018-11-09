@@ -1,5 +1,5 @@
-var e = "http://weixin.51tckd.com/web/index.php?store_id=1&r=api/", r = {
-    index: e + "default/index",
+var e = "https://weixin.yipinji365.com/web/index.php?store_id=1&r=api/", r = {
+    index: e + "default/index", 
     default: {
         store: e + "default/store",
         index: e + "default/index",
